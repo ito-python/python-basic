@@ -1,6 +1,8 @@
 score = 75
 
-if score >= 60:
-  print("合格")
+if score >= 70:
+  print("優")
+elif score <= 30:
+  print("可")
 else:
-  print("不合格")
+  print("良")

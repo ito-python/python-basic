@@ -1,4 +1,4 @@
-## python
+# python基礎
 Python学習用のリポジトリ
 
 ### 学習内容
